@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daniel-kiarie
 - 👀 I’m interested in ...web pen testing and network forensic
 - 🌱 I’m currently learning ...yes
-- 💞️ I’m looking to collaborate on ...CTF's
+- 💞️ I’m looking to collaborate on ... Cloud 
 - 📫 How to reach me ...danielkiarie61@gmail.com
 
 <!---
