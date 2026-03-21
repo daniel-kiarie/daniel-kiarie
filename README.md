@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daniel-kiarie
-- 👀 I’m interested in ...full stack development 
+- 👀 I’m interested in ...MERN Stack development 
 - 🌱 I’m currently learning ...yes
-- 💞️ I’m looking to collaborate on ... full stack development 
+- 💞️ I’m looking to collaborate on ... MERN Stack development 
 - 📫 How to reach me ...danielkiarie61@gmail.com
 
 <!---
